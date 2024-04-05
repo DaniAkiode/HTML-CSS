@@ -5,17 +5,10 @@ body{
 h1{
     color:white
 }
-#p1{
+.odd{
     color:red
 }
-#p2{
-    color:orange
-}
 
-#p3{
-    color:yellow
-}
-
-#p4{
-    color:green
+.even{
+    color:blue
 }
