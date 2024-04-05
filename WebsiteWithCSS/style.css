@@ -1,14 +1,16 @@
 body{
-    background-color: black
+    background-color: hsl(0, 2%, 12%);
 }
 
-h1{
-    color:white
+#p1 {
+    color: tomato;
 }
-.odd{
-    color:red
+#p2{ 
+    color:rgb(191, 141, 13)
 }
-
-.even{
-    color:blue
+#p3 {
+    color: #32d943
+}
+#p4 {
+    color: hsl(290, 22%, 26%)
 }
