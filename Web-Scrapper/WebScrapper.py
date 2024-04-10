@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://en.wikipedia.org/wiki/List_of_Real_Madrid_CF_players"
+url = "https://www.worldfootball.net/teams/real-madrid/10/"
 
 response = requests.get(url)
 
