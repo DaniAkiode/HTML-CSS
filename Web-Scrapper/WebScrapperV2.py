@@ -17,6 +17,8 @@ for link in player_links:
         continue
     player_names.append(title)
 
-for name in player_names:
-    print(name)
+
+with open('RealMadridPlayers.txt', 'w', encoding='utf-8') as file:
+    for name in player_names:
+        file.write(name + '\n')
 
